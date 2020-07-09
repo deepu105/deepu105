@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Deepu K Sasidharan
+
 <!--
 **deepu105/deepu105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +25,5 @@ Here are some ideas to get you started:
 - Passionate about developer experience and user experience
 - Expertise in solution ideation, visualization, and prototyping
 - Love Astronomy, Quadcopters, and Robotics
+
+You can visit my website [deepu.tech](https://deepu.tech/) to read my blog posts and to learn more about me.
