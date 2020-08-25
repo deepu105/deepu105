@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - Developer Advocate at <a href="https://www.adyen.com/" target="_blank">Adyen</a>
 - Polyglot developer mainly working with Java, Kotlin, JavaScript, TypeScript, Go, Rust, and Python
 - Cloud & Container technology enthusiast and advocate
-- A published author, frequent conference speaker, and avid blogger
+- A published author, international conference speaker, and avid blogger
 - Passionate about developer experience and user experience
 - Expertise in solution ideation, visualization, and prototyping
-- Love Astronomy, Quadcopters, and Robotics
+- Love Astronomy, Motorbikes, and Robotics
 
 You can visit my website [deepu.tech](https://deepu.tech/) to read my blog posts and to learn more about me.
