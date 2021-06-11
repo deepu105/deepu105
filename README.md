@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 - Open-source software aficionado and a technology advocate by passion & profession
 - Co-lead of <a href="https://jhipster.tech" target="_blank">JHipster</a>, the best development platform in the world 😸
+- Creator of [KDash](https://github.com/kdash-rs/kdash), [JDL Studio](https://start.jhipster.tech/jdl-studio/), JHipster React and JHipster entity audit
 - Developer Advocate at <a href="https://www.adyen.com/" target="_blank">Adyen</a>
 - Polyglot developer mainly working with Java, Kotlin, JavaScript, TypeScript, Go, Rust, and Python
 - Cloud & Container technology enthusiast and advocate
