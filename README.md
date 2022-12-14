@@ -18,3 +18,4 @@ I'm Deepu K Sasidharan
 - Love Astronomy, Motorbikes, and Robotics
 
 You can visit my website [deepu.tech](https://deepu.tech/) to read my blog posts and to learn more about me.
+Follow me on <a rel="me" href="https://mastodon.social/@deepu105">Mastodon</a>
