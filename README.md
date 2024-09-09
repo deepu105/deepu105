@@ -6,8 +6,8 @@ I'm Deepu K Sasidharan
 **deepu105/deepu105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - Open-source software aficionado and a technology advocate by passion & profession
-- Co-lead of <a href="https://jhipster.tech" target="_blank">JHipster</a>, the best development platform in the world 😸
-- Creator of [KDash](https://github.com/kdash-rs/kdash), [JDL Studio](https://start.jhipster.tech/jdl-studio/), JHipster React and JHipster entity audit
+- Co-chair of <a href="https://jhipster.tech" target="_blank">JHipster</a>, the best development platform in the world 😸
+- Creator of [KDash](https://github.com/kdash-rs/kdash), [JDL Studio](https://start.jhipster.tech/jdl-studio/), [JWT-UI](https://github.com/jwt-rs/jwt-ui), JHipster React and JHipster entity audit
 - [Java Champion](https://dev.java/community/jcs/)
 - Developer Advocate at Okta. Alumni of Adyen, TCS and XebiaLabs 💵
 - Polyglot developer mainly working with Java, Rust, Kotlin, JavaScript, TypeScript, Go, and Python
